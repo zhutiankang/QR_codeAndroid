@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#00000000</color>
+    <!-- Zxing begin -->
+    <color name="possible_result_points">#c0ffbd21</color>
+    <!-- Android standard ICS color -->
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_laser">#95E755</color>
+    <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="color_7F7F7F">#7F7F7F</color>
+    <color name="color_ffffff">#ffffff</color>
+    <color name="color_0088F0">#0088F0</color>
+    <color name="color_333333">#333333</color>
+    <color name="color_0074cd">#0074cd</color>
+    <!-- Zxing end -->
+
+</resources>

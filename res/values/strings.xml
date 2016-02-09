@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">FocusQRCode</string>
+    <!-- Zxing begin -->
+    <string name="msg_default_mms_subject">你好</string>
+    <string name="msg_intent_failed">对不起,请求的应用程序无法启动。条形码的内容可能是无效的.</string>
+    <string name="button_ok">确定</string>
+    <string name="msg_camera_framework_bug">未获得授权使用摄像头\n\r请授权本应用使用摄像头</string>
+    <string name="msg_default_status">请对准要扫描的二位码.</string>
+    <string name="scan_text">请对准你要扫描的二维码</string>
+    <string name="scan_failed">扫描失败，3秒后将自动重新扫描。</string>
+    <string name="scan_success">扫描成功</string>
+    <!-- Zxing end -->
+
+</resources>
